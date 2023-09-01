@@ -1,5 +1,7 @@
-# winter_school
-Code for potential activities for the fusion technology winter school
+# Simple fusion reactor design with paramak 
+This is a simple jupyter notebook where the user can design a conventional tokamak using Paramak and simple tokamak design parameters. 
+
+The code is based on Freidberg, J. P. et al. _Designing a Tokamak Fusion reactor—How Does Plasma Physics Fit In?_  Physics of Plasmas 22, 7 (July 2015): 070901 © 2015 AIP Publishing
 
 ## Conda requirements
 ``` 
